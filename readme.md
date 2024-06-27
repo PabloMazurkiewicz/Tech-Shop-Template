@@ -7,7 +7,7 @@ You can manage categories, products, orders and users. Also you can add any proc
 
 #### How to run:
 ##### API (Laravel)
-* Clone: `https://github.com/Belzee10/tech-shop.git`
+* Clone: `https://github.com/PabloMazurkiewicz/Tech-Shop-Template.git`
 * Go to the directory and run: `composer install`
 * Copy `.env.example` file to `.env` on the root folder
 * Open the `.env` file and change the Database parameters(`DB_DATABASE`, `DB_USERNAME`, `DB_PASSWORD`) to whatever you have
